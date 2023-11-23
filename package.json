@@ -4,11 +4,11 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/roacn/delete-older-releases"
+    "url": "git+https://github.com/hyamine/openwrt-compile-packages"
   },
   "keywords": [],
   "author": "REDDY PRASAD",
   "license": "ISC",
-  "homepage": "https://github.com/roacn/delete-older-releases",
+  "homepage": "https://github.com/hyamine/openwrt-compile-packages",
   "dependencies": {}
 }
